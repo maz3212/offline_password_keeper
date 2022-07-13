@@ -1,4 +1,4 @@
-# offline_password_keeper
+# Offline Password Keeper
 Arduino UNO Offline Password Keeper, 16x2 LCD, 4x3 Keypad, Serial Data Input, EEPROM Storage
 
 Use SimulIDE for .simu files
